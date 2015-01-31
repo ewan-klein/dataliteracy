@@ -2,13 +2,15 @@
 
 ## Summary
 
-
-This course resembles Informatics Literacy in a couple of respects: it
+Data literacy is a key transferrable skill, and it is fitting that the
+School of Informatics should take a lead role in introducing the topic
+into the undergraduate curriculum. The proposed course resembles *Informatics Literacy* in a couple of respects: it
 is a 20 pt Level 7 course; it is generalist in approach, and will be
 offered as an outside course to other programmes.
 
+However, the course places an strong emphasis on interdisciplinary teamwork, and to underpin this, we will strongly encourage other departments to become stakeholders. The course is intended to be open to students from Informatics, and will offer them material, skills and ways of learning that are not currently available elsewhere in the curriculum.
 
-In addition, the course contributes to the following initiatives:
+The course contributes to the following initiatives:
 
 *   The University’s [Emerging Vision for Learning and Teaching](http://www.docs.sasg.ed.ac.uk/AcademicServices/Projects/Consultation%20on%20University%20Vision%20for%20Learning%20and%20Teaching%20Aug%202014.pdf);
 * The [Edinburgh2020](http://Fedinburgh2020.org) platform for
@@ -17,20 +19,6 @@ In addition, the course contributes to the following initiatives:
     [Edinburgh Living Lab](http://edinburghlivinglab.org) collaboration between the University and City of Edinburgh Council; 
 *   [Edinburgh Data Science](http://www.ed.ac.uk/schools-departments/data-science).
 
-The main changes proposed are:
-
-*   retitle the course Data Literacy;
-*   modify the course description;
-*   re-orient the intended learning outcomes;
-*   adopt a ‘learning by developing’ model of pedagogy;
-*   assess the course by a combination of assessed assignments and oral presentation.
-
-Data literacy is a key transferrable skill, and it is fitting that the
-School of Informatics should take a lead role in introducing the topic
-into the undergraduate curriculum. At the same time, the proposed
-course would place an emphasis on interdisciplinary teamwork, and to
-underpin this, we would strongly encourage other departments to become
-stakeholders in this initiative.
 
 ## Data Literacy
 
@@ -78,9 +66,9 @@ and analysing data as part of designing a solution.
 ### Assessment Information
 
 
-Written Examination | 0%
-Assessed Assignments | 75%
-Oral Presentation | 25%
+Written Examination: 0%</br>
+Assessed Assignments: 75%</br>
+Oral Presentation: 25%
 
 ### Syllabus
 
