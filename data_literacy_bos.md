@@ -1,22 +1,28 @@
-Course change: Informatics Literacy
+# New Course: Data Literacy
 
 Summary
 =======
 
-Informatics Literacy is a 20 pt Level 7 course that has not been offered since AY 2011/12. This is a proposal for resuscitating and re-configuring the course so that it contributes to the following initiatives:
+This course resembles Informatics Literacy in several respects:
 
--   The University’s [Emerging Vision for Learning and Teaching](http://www.google.com/url?q=http%3A%2F%2Fwww.docs.sasg.ed.ac.uk%2FAcademicServices%2FProjects%2FConsultation%2520on%2520University%2520Vision%2520for%2520Learning%2520and%2520Teaching%2520Aug%25202014.pdf&sa=D&sntz=1&usg=AFQjCNG-kunRT4WrQ4xuJeFkVhhmVDv7Ug);
--   The [Edinburgh2020](http://www.google.com/url?q=http%3A%2F%2Fedinburgh2020.org&sa=D&sntz=1&usg=AFQjCNEb8WL0VdC9UZxddV9ANhejbEITcQ) platform for innovation and re-thinking education within the University;
--   The [Edinburgh Living Lab](http://www.google.com/url?q=http%3A%2F%2Fedinburghlivinglab.org&sa=D&sntz=1&usg=AFQjCNFJyi8dg8PKTFMV--nGsZtuCQ_KdA) collaboration between the University and City of Edinburgh Council;
--   [Edinburgh Data Science](http://www.google.com/url?q=http%3A%2F%2Fwww.ed.ac.uk%2Fschools-departments%2Fdata-science&sa=D&sntz=1&usg=AFQjCNHRWpOit51p4BnzpckEeU6dtCS-8Q).
+* It is a 20 pt Level 7 course;
+* it is generalist in approach
+
+
+that it contributes to the following initiatives:
+
+*   The University’s [Emerging Vision for Learning and Teaching](http://www.google.com/url?q=http%3A%2F%2Fwww.docs.sasg.ed.ac.uk%2FAcademicServices%2FProjects%2FConsultation%2520on%2520University%2520Vision%2520for%2520Learning%2520and%2520Teaching%2520Aug%25202014.pdf&sa=D&sntz=1&usg=AFQjCNG-kunRT4WrQ4xuJeFkVhhmVDv7Ug);
+*   The [Edinburgh2020](http://www.google.com/url?q=http%3A%2F%2Fedinburgh2020.org&sa=D&sntz=1&usg=AFQjCNEb8WL0VdC9UZxddV9ANhejbEITcQ) platform for innovation and re-thinking education within the University;
+*   The [Edinburgh Living Lab](http://www.google.com/url?q=http%3A%2F%2Fedinburghlivinglab.org&sa=D&sntz=1&usg=AFQjCNFJyi8dg8PKTFMV--nGsZtuCQ_KdA) collaboration between the University and City of Edinburgh Council;
+*   [Edinburgh Data Science](http://www.google.com/url?q=http%3A%2F%2Fwww.ed.ac.uk%2Fschools-departments%2Fdata-science&sa=D&sntz=1&usg=AFQjCNHRWpOit51p4BnzpckEeU6dtCS-8Q).
 
 The main changes proposed are:
 
--   retitle the course Data Literacy;
--   modify the course description;
--   re-orient the intended learning outcomes;
--   adopt a ‘learning by developing’ model of pedagogy;
--   assess the course by a combination of assessed assignments and oral presentation.
+*   retitle the course Data Literacy;
+*   modify the course description;
+*   re-orient the intended learning outcomes;
+*   adopt a ‘learning by developing’ model of pedagogy;
+*   assess the course by a combination of assessed assignments and oral presentation.
 
 Data literacy is a key transferrable skill, and it is fitting that the School of Informatics should take a lead role in introducing the topic into the undergraduate curriculum. At the same time, the proposed course would place an emphasis on interdisciplinary teamwork, and to underpin this, we would strongly encourage other departments to become stakeholders in this initiative.
 
@@ -57,13 +63,13 @@ Oral Presentation - 25%
 Syllabus
 --------
 
--   Types of data, data formats and data collection methods
--   Basic statistical properties of data sets, data quality
--   Data transformation and data linkage
--   Ethical and legal aspects of data collection and publication
--   Data visualisation tools
--   Using data to persuade, to inform and to support decision-making
--   Economic value of data
+*   Types of data, data formats and data collection methods
+*   Basic statistical properties of data sets, data quality
+*   Data transformation and data linkage
+*   Ethical and legal aspects of data collection and publication
+*   Data visualisation tools
+*   Using data to persuade, to inform and to support decision-making
+*   Economic value of data
 
 * * * * *
 
