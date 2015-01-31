@@ -1,15 +1,16 @@
 # New Course: Data Literacy
 
-Summary
-=======
+## Summary
 
-This course resembles Informatics Literacy in several respects:
+
+This course resembles Informatics Literacy in a couple of respects:
 
 * It is a 20 pt Level 7 course;
-* it is generalist in approach
+* it is generalist in approach, and will be offered as an outside
+  course to other programmes.
 
 
-that it contributes to the following initiatives:
+In addition, the course contributes to the following initiatives:
 
 *   The University’s [Emerging Vision for Learning and Teaching](http://www.google.com/url?q=http%3A%2F%2Fwww.docs.sasg.ed.ac.uk%2FAcademicServices%2FProjects%2FConsultation%2520on%2520University%2520Vision%2520for%2520Learning%2520and%2520Teaching%2520Aug%25202014.pdf&sa=D&sntz=1&usg=AFQjCNG-kunRT4WrQ4xuJeFkVhhmVDv7Ug);
 *   The [Edinburgh2020](http://www.google.com/url?q=http%3A%2F%2Fedinburgh2020.org&sa=D&sntz=1&usg=AFQjCNEb8WL0VdC9UZxddV9ANhejbEITcQ) platform for innovation and re-thinking education within the University;
@@ -26,18 +27,17 @@ The main changes proposed are:
 
 Data literacy is a key transferrable skill, and it is fitting that the School of Informatics should take a lead role in introducing the topic into the undergraduate curriculum. At the same time, the proposed course would place an emphasis on interdisciplinary teamwork, and to underpin this, we would strongly encourage other departments to become stakeholders in this initiative.
 
-Data Literacy
-=============
+## Data Literacy
 
-Course Description
-------------------
+
+### Course Description
 
 Data plays a pervasive role in modern society: we are all consumers and producers of data on a daily basis. Moreover, data is increasingly important for all aspects of academic endeavour.  By becoming data literate—understanding how data is collected, how it can be interpreted, and how it functions in social and political processes—you will be better prepared for your undergraduate studies, for your future career, and for becoming an informed citizen. This course will provide you with basic concepts and tools for understanding data, but just as importantly, it gives you an opportunity to acquire a practice-based understanding of data by contributing to a team-based interdisciplinary project.  Your team will address an existing social challenge by collecting, processing and analysing data as part of designing a solution.
 
 of Intended Learning Outcomes
 
-Summary of Intended Learning Outcomes
--------------------------------------
+### Summary of Intended Learning Outcomes
+
 
 1.  Demonstrate a knowledge of different types of data, and how such data is collected.
 2.  Demonstrate a knowledge of basic data analysis techniques.
@@ -51,8 +51,8 @@ Summary of Intended Learning Outcomes
 10. Plan and implement a small group project, demonstrating an ability to work in an interdisciplinary team.
 11. Act in a professional manner in interactions with stakeholders and the public.
 
-Assessment Information
-----------------------
+### Assessment Information
+
 
 Written Examination - 0%
 
@@ -60,8 +60,8 @@ Assessed Assignments - 75%
 
 Oral Presentation - 25%
 
-Syllabus
---------
+### Syllabus
+
 
 *   Types of data, data formats and data collection methods
 *   Basic statistical properties of data sets, data quality
@@ -71,10 +71,9 @@ Syllabus
 *   Using data to persuade, to inform and to support decision-making
 *   Economic value of data
 
-* * * * *
 
-Breakdown
----------
+
+### Breakdown
 
 [](#)[](#)
 
@@ -105,8 +104,8 @@ Breakdown
 </tbody>
 </table>
 
-Example Project Theme
----------------------
+### Example Project Theme
+
 
 Waste management is an important element in the University’s sustainability strategy. The overarching priority is to produce the volume of waste overall, and within that, to reduce the proportion of waste the goes to landfill. The University has adoped a number of measures for reaching these objectives, but there is plenty of scope for extending and improving them. Waste management can be analysed at both the macro and the micro level. Take paper towels. How many in total are purchased, how do they ‘flow’ and get aggregated through the overall University waste collection system, where are they collected by the external waste contractor and where do they eventually end up? At the micro level, what influences the decision of an individual to use a paper towel (or two, or three) to clean her coffee cup?
 
@@ -121,8 +120,8 @@ Assignment 2: On the basis your first lightning investigation, plan and implemen
 
     * * * * *
 
-Background
-==========
+## Background
+
 
 This proposal follows on from a pilot in the Masters-level Design for Informatics course last semester that implemented key ideas from the Living Lab movement and from the Learning by Developing model of pedagogy.  Students were provided with a grounding in basic data concepts, and engaged in a 4-week project on the theme of Active Travel in collaboration with Inverleith Neighbourhood Partnership. The results of the pilot were disseminated in a workshop to University colleagues from across the spectrum of subject areas. The workshop demonstrated that there is considerable interest in, and support for, this kind of teaching innovation from many parts of the University.
 
