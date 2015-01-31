@@ -3,11 +3,9 @@
 ## Summary
 
 
-This course resembles Informatics Literacy in a couple of respects:
-
-* It is a 20 pt Level 7 course;
-* it is generalist in approach, and will be offered as an outside
-  course to other programmes.
+This course resembles Informatics Literacy in a couple of respects: it
+is a 20 pt Level 7 course; it is generalist in approach, and will be
+offered as an outside course to other programmes.
 
 
 In addition, the course contributes to the following initiatives:
@@ -171,7 +169,6 @@ used to justify new ways of dealing with waste.
 
 
 ## Background
-
 
 This proposal follows on from a pilot in the Masters-level Design for
 Informatics course last semester that implemented key ideas from the
