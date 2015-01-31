@@ -39,7 +39,7 @@ stakeholders in this initiative.
 
 Data plays a pervasive role in modern society: we are all consumers
 and producers of data on a daily basis. Moreover, data is increasingly
-important for all aspects of academic endeavour.  By becoming data
+important for all aspects of academic endeavour.  By becoming data
 literate—understanding how data is collected, how it can be
 interpreted, and how it functions in social and political
 processes—you will be better prepared for your undergraduate studies,
@@ -78,9 +78,9 @@ and analysing data as part of designing a solution.
 ### Assessment Information
 
 
-Written Examination - 0%</br>
-Assessed Assignments - 75%</br>
-Oral Presentation - 25%
+Written Examination | 0%
+Assessed Assignments | 75%
+Oral Presentation | 25%
 
 ### Syllabus
 
