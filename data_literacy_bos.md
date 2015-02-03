@@ -4,11 +4,17 @@
 
 Data literacy is a key transferrable skill, and it is fitting that the
 School of Informatics should take a lead role in introducing the topic
-into the undergraduate curriculum. The proposed course resembles *Informatics Literacy* in a couple of respects: it
+into the undergraduate curriculum. The proposed course resembles [Informatics Literacy](http://www.inf.ed.ac.uk/teaching/courses/il1/) in a couple of respects: it
 is a 20 pt Level 7 course; it is generalist in approach, and will be
 offered as an outside course to other programmes.
 
-However, the course places an strong emphasis on interdisciplinary teamwork, and to underpin this, we will strongly encourage other departments to become stakeholders. The course is intended to be open to students from Informatics, and will offer them material, skills and ways of learning that are not currently available elsewhere in the curriculum.
+Key features of the proposed course are the following:
+
+* the knowledge-based learning outcomes will be consolidated and contextualised by a substantial, team-based project;
+* the interdisciplinary orientation will prepare students for the world of work beyond the university;
+* students will be encouraged to engage actively and responsibly with problems and problem-holders outside the classroom.
+
+In order to underpin the interdisciplinary approach to learning, we will strongly encourage other departments to become stakeholders. The course is intended to be open to students from Informatics, and will offer them information, skills and ways of learning that are not currently available elsewhere in the curriculum.
 
 The course contributes to the following initiatives:
 
@@ -42,6 +48,10 @@ and analysing data as part of designing a solution.
 
 ### Summary of Intended Learning Outcomes
 
+The learning outcomes build on the framework provided by [the SCQF Level Descriptors](http://scqf.org.uk/wp-content/uploads/2014/03/SCQF-Revised-Level-Descriptors-Aug-2012-FINAL-web-version1.pdf), and in particular address the five 'characteristics' which are used as a reference point for learning outcomes and different levels of learning:
+
+* Knowledge and understanding;* Practice: Applied knowledge, skills and understanding;* Generic cognitive skills;* Communication, numeracy and ICT skills; and* Autonomy, accountability and working with others.
+Although there may appear to be a large number of learning outcomes, this is somewhat deceptive since they are designed to interlock and reinforce each other.
 
 1.  Demonstrate a knowledge of different types of data, and how such data is collected.
 2.  Demonstrate a knowledge of basic data analysis techniques.
@@ -66,9 +76,9 @@ and analysing data as part of designing a solution.
 ### Assessment Information
 
 
-Written Examination: 0%</br>
-Assessed Assignments: 75%</br>
-Oral Presentation: 25%
+Written Examination: 0%  
+Assessed Assignments: 75%  
+Oral Presentation: 25%  
 
 ### Syllabus
 
@@ -81,7 +91,7 @@ Oral Presentation: 25%
 *   Using data to persuade, to inform and to support decision-making
 *   Economic value of data
 
-
+Note that the syllabus does not overlap to any signficant extent with  [Informatics 1: Data and Analysis](https://blog.inf.ed.ac.uk/da15/about), one of the core courses that Informatics 1 students are required to take.
 
 ### Breakdown
 
