@@ -6,13 +6,11 @@ Data literacy is a key transferrable skill, and it is fitting that the
 School of Informatics should take a lead role in introducing the topic
 into the undergraduate curriculum. The proposed course resembles [Informatics Literacy](http://www.inf.ed.ac.uk/teaching/courses/il1/) in a couple of respects: it
 is a 20 pt Level 7 course; it is generalist in approach, and will be
-offered as an outside course to other programmes.
+offered as an outside course to other programmes. However, it also has several distinctive features:
 
-Key features of the proposed course are the following:
-
-* the knowledge-based learning outcomes will be consolidated and contextualised by a substantial, team-based project;
+* the knowledge-based learning outcomes will be consolidated and contextualised by practice-based work, most importantly in a substantial, team-based project;
 * the interdisciplinary orientation will prepare students for the world of work beyond the university;
-* students will be encouraged to engage actively and responsibly with problems and problem-holders outside the classroom.
+* students will be expected to engage actively and responsibly with problems and problem-holders outside the classroom.
 
 In order to underpin the interdisciplinary approach to learning, we will strongly encourage other departments to become stakeholders. The course is intended to be open to students from Informatics, and will offer them information, skills and ways of learning that are not currently available elsewhere in the curriculum.
 
@@ -90,6 +88,8 @@ Oral Presentation: 25%
 *   Data visualisation 
 *   Using data to persuade, to inform and to support decision-making
 *   Economic value of data
+
+In order to make the course more scalable over time, we will develop a library of focussed, modular learning materials which will allow students to gain online access to more theoretical parts of the syllabus. 
 
 Note that the syllabus does not overlap to any signficant extent with  [Informatics 1: Data and Analysis](https://blog.inf.ed.ac.uk/da15/about), one of the core courses that Informatics 1 students are required to take.
 
