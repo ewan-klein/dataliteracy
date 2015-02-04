@@ -17,7 +17,7 @@ In order to underpin the interdisciplinary approach to learning, we will strongl
 The course contributes to the following initiatives:
 
 *   The University’s [Emerging Vision for Learning and Teaching](http://www.docs.sasg.ed.ac.uk/AcademicServices/Projects/Consultation%20on%20University%20Vision%20for%20Learning%20and%20Teaching%20Aug%202014.pdf);
-* The [Edinburgh2020](http://Fedinburgh2020.org) platform for
+* The [Edinburgh2020](http://edinburgh2020.org) platform for
   innovation and re-thinking education within the University; 
 *  The
     [Edinburgh Living Lab](http://edinburghlivinglab.org) collaboration between the University and City of Edinburgh Council; 
@@ -48,8 +48,14 @@ and analysing data as part of designing a solution.
 
 The learning outcomes build on the framework provided by [the SCQF Level Descriptors](http://scqf.org.uk/wp-content/uploads/2014/03/SCQF-Revised-Level-Descriptors-Aug-2012-FINAL-web-version1.pdf), and in particular address the five 'characteristics' which are used as a reference point for learning outcomes and different levels of learning:
 
-* Knowledge and understanding;* Practice: Applied knowledge, skills and understanding;* Generic cognitive skills;* Communication, numeracy and ICT skills; and* Autonomy, accountability and working with others.
-Although there may appear to be a large number of learning outcomes, this is somewhat deceptive since they are designed to interlock and reinforce each other.
+* Knowledge and understanding;
+* Practice: Applied knowledge, skills and understanding;
+* Generic cognitive skills;
+* Communication, numeracy and ICT skills; and
+* Autonomy, accountability and working with others.
+
+
+Although there may appear to be a large number of learning outcomes, this is somewhat deceptive since they are designed to interlock and reinforce each other.
 
 1.  Demonstrate a knowledge of different types of data, and how such data is collected.
 2.  Demonstrate a knowledge of basic data analysis techniques.
@@ -127,7 +133,7 @@ Note that the syllabus does not overlap to any signficant extent with  [Informat
 
 
 Waste management is an important element in the University’s
-sustainability strategy. The overarching priority is to produce the
+sustainability strategy. The overarching priority is to reduce the
 volume of waste overall, and within that, to reduce the proportion of
 waste the goes to landfill. The University has adoped a number of
 measures for reaching these objectives, but there is plenty of scope
