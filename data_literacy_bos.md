@@ -1,17 +1,14 @@
 # Informatics Board of Study &mdash; Course Proposal
 
-**Proposed course title**: Data Literacy  
-**Proposers**: Ewan Klein, James Stewart (SPS), Arno Verhoeven (Design Informatics), Andy Cross (Geosciences)  
+**Proposed course title**: Data, Design and Society  
+**Proposers**: Ewan Klein, James Stewart (SPS), Arno Verhoeven (Design Informatics) 
 **Date**: 11 February 2015  
 **Status**: Draft 
 
 ## Case for support
 
-Data literacy is a key transferrable skill, and it is fitting that the
-School of Informatics should take a lead role in introducing the topic
-into the undergraduate curriculum. The proposed course resembles [Informatics Literacy](http://www.inf.ed.ac.uk/teaching/courses/il1/) in a couple of respects: it
-is a 20 pt Level 7 course; it is generalist in approach, and will be
-offered as an outside course to other programmes. However, it also has several distinctive features:
+The title of the course accurately reflects the three elements that we wish to bring together in order to provide students with an opportunity to taste the process of social innovation.
+
 
 * the knowledge-based learning outcomes will be consolidated and contextualised by practice-based work, most importantly in a substantial, team-based project;
 * the interdisciplinary orientation will prepare students for the world of work beyond the university;
