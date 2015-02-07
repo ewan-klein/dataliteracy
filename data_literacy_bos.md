@@ -1,6 +1,11 @@
-# New Course: Data Literacy
+# Informatics Board of Study &mdash; Course Proposal
 
-## Summary
+**Proposed course title**: Data Literacy  
+**Proposers**: Ewan Klein, James Stewart (SPS), Arno Verhoeven (Design Informatics), Andy Cross (Geosciences)  
+**Date**: 11 February 2015  
+**Status**: Draft 
+
+## Case for support
 
 Data literacy is a key transferrable skill, and it is fitting that the
 School of Informatics should take a lead role in introducing the topic
@@ -14,6 +19,8 @@ offered as an outside course to other programmes. However, it also has several d
 
 In order to underpin the interdisciplinary approach to learning, we will strongly encourage other departments to become stakeholders. The course is intended to be open to students from Informatics, and will offer them information, skills and ways of learning that are not currently available elsewhere in the curriculum.
 
+### Overall contribution to teaching portfolio
+
 The course contributes to the following initiatives:
 
 *   The University’s [Emerging Vision for Learning and Teaching](http://www.docs.sasg.ed.ac.uk/AcademicServices/Projects/Consultation%20on%20University%20Vision%20for%20Learning%20and%20Teaching%20Aug%202014.pdf);
@@ -23,12 +30,43 @@ The course contributes to the following initiatives:
     [Edinburgh Living Lab](http://edinburghlivinglab.org) collaboration between the University and City of Edinburgh Council; 
 *   [Edinburgh Data Science](http://www.ed.ac.uk/schools-departments/data-science).
 
+### Target audience and expected demand
 
-## Data Literacy
+### Relation to existing curriculum
+
+This proposal follows on from a pilot in the Masters-level Design for
+Informatics course last semester that implemented key ideas from the
+Living Lab movement and from the Learning by Developing model of
+pedagogy.  Students were provided with a grounding in basic data
+concepts, and engaged in a 4-week project on the theme of Active
+Travel in collaboration with Inverleith Neighbourhood Partnership. The
+results of the pilot were disseminated in a workshop to University
+colleagues from across the spectrum of subject areas. The workshop
+demonstrated that there is considerable interest in, and support for,
+this kind of teaching innovation from many parts of the University.
+
+The pilot was the basis for a succesful bid to the Principal’s
+Teaching Award Scheme, and this will provide financial support for the
+applicants to consolidate and extend the methods and teaching
+resources for future deployments of the approach to Design for
+Informatics and potentially for other courses.
 
 
-### Course Description
+### Resources
 
+
+
+## Course descriptor
+
+**Course Title**: Data Literacy  
+**SCQF Credit Points**: 20  
+**SCQF Credit Level**: 8
+**Normal Year Taken**: 1  
+**Also available in years**: 2  
+**Subject Area and Specialism Classification**: ??  
+**Timetabling Information**: S2  
+
+**Short Course Description**  
 Data plays a pervasive role in modern society: we are all consumers
 and producers of data on a daily basis. Moreover, data is increasingly
 important for all aspects of academic endeavour.  By becoming data
@@ -43,19 +81,13 @@ contributing to a team-based interdisciplinary project.  Your team
 will address an existing social challenge by collecting, processing
 and analysing data as part of designing a solution.
 
+**Pre-Requisite Courses**: None  
+**Co-Requisite Courses**: None  
+**Prohibited Combinations**: None  
+**Other Requirements**: None  
+**Available to Visiting Students**: Yes   
 
-### Summary of Intended Learning Outcomes
-
-The learning outcomes build on the framework provided by [the SCQF Level Descriptors](http://scqf.org.uk/wp-content/uploads/2014/03/SCQF-Revised-Level-Descriptors-Aug-2012-FINAL-web-version1.pdf), and in particular address the five 'characteristics' which are used as a reference point for learning outcomes and different levels of learning:
-
-* Knowledge and understanding;
-* Practice: Applied knowledge, skills and understanding;
-* Generic cognitive skills;
-* Communication, numeracy and ICT skills; and
-* Autonomy, accountability and working with others.
-
-
-Although there may appear to be a large number of learning outcomes, this is somewhat deceptive since they are designed to interlock and reinforce each other.
+**Summary of Intended Learning Outcomes**
 
 1.  Demonstrate a knowledge of different types of data, and how such data is collected.
 2.  Demonstrate a knowledge of basic data analysis techniques.
@@ -77,14 +109,28 @@ Although there may appear to be a large number of learning outcomes, this is som
     to work in an interdisciplinary team. 
 11. Act in a professional manner in interactions with stakeholders and the public.
 
-### Assessment Information
+
+
+
+**Assessment Information**
+
+TBD
+
+**Assessment Weightings**
 
 
 Written Examination: 0%  
 Assessed Assignments: 75%  
 Oral Presentation: 25%  
 
-### Syllabus
+**Time spent on assignments**:
+
+135 hours
+
+<!--Academic description: -->
+
+
+**Syllabus**
 
 
 *   Types of data, data formats and data collection methods
@@ -97,40 +143,55 @@ Oral Presentation: 25%
 
 In order to make the course more scalable over time, we will develop a library of focussed, modular learning materials which will allow students to gain online access to more theoretical parts of the syllabus. 
 
+<!--
 Note that the syllabus does not overlap to any signficant extent with  [Informatics 1: Data and Analysis](https://blog.inf.ed.ac.uk/da15/about), one of the core courses that Informatics 1 students are required to take.
+-->
 
-### Breakdown
+**Relevant QAA Computing Curriculum Sections**: Not intended to fit into a standard topic area in computing, but there are partial overlaps with *Empirical Approaches*, *Human-computer interaction*, *Information systems*, *Professionalism*.
+
+**Transferrable skills**
+
+**Breakdown of Learning and Teaching Activities**
 
 
 <table>
 <col width="50%" />
-<col width="50%" />
+<col width="10%" />
 <tbody>
-<tr class="odd">
+<tr>
 <td align="left"><p>Lectures</p></td>
-<td align="left"><p>20</p></td>
+<td align="right"><p>20</p></td>
 </tr>
-<tr class="even">
-<td align="left"><p>Workshop/Studio</p></td>
-<td align="left"><p>20</p></td>
+<tr>
+<td align="left"><p>Supervised Workshop/Studio</p></td>
+<td align="right"><p>10</p></td>
 </tr>
-<tr class="odd">
+<tr>
+<td align="left"><p>Project supervision</p></td>
+<td align="right"><p>10</p></td>
+</tr>
+<tr>
+<td align="left"><p>Fieldwork/External visits</p></td>
+<td align="right"><p>20</p></td>
+</tr>
+<tr>
 <td align="left"><p>Summative assessment</p></td>
-<td align="left"><p>40</p></td>
+<td align="right"><p>5</p></td>
 </tr>
-<tr class="even">
-<td align="left"><p>Private Study/Other</p></td>
-<td align="left"><p>120</p></td>
+<tr>
+<td align="left"><p>Directed Learning and Independent Learning Hours</p></td>
+<td align="right"><p>135</p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td align="left"><p>Total</p></td>
-<td align="left"><p>200</p></td>
+<td align="right"><p>200</p></td>
 </tr>
 </tbody>
 </table>
 
-### Example Project Theme
+## Course Materials
 
+**Sample coursework specification**
 
 Waste management is an important element in the University’s
 sustainability strategy. The overarching priority is to reduce the
@@ -170,25 +231,11 @@ used to justify new ways of dealing with waste.
 * You will contribute to a final project presentation, which will
     include slides and any accompaning materials.
 
+## Course Management
 
+## Comments
 
 ## Background
 
-This proposal follows on from a pilot in the Masters-level Design for
-Informatics course last semester that implemented key ideas from the
-Living Lab movement and from the Learning by Developing model of
-pedagogy.  Students were provided with a grounding in basic data
-concepts, and engaged in a 4-week project on the theme of Active
-Travel in collaboration with Inverleith Neighbourhood Partnership. The
-results of the pilot were disseminated in a workshop to University
-colleagues from across the spectrum of subject areas. The workshop
-demonstrated that there is considerable interest in, and support for,
-this kind of teaching innovation from many parts of the University.
-
-The pilot was the basis for a succesful bid to the Principal’s
-Teaching Award Scheme, and this will provide financial support for the
-applicants to consolidate and extend the methods and teaching
-resources for future deployments of the approach to Design for
-Informatics and potentially for other courses.
 
 
