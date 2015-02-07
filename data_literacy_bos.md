@@ -123,9 +123,12 @@ Written Examination: 0%
 Assessed Assignments: 75%  
 Oral Presentation: 25%  
 
-**Time spent on assignments**:
+**Time spent on assignments**
 
-135 hours
+* formatively assessed coursework 1: 10 hours  
+* summatively assessed coursework 2: 100 hours  
+* oral presentation: 15 hours  
+
 
 <!--Academic description: -->
 
@@ -206,12 +209,8 @@ by the external waste contractor and where do they eventually end up?
 At the micro level, what influences the decision of an individual to
 use a paper towel (or two, or three) to clean her coffee cup?
 
-**Assignment 1**: In your team, carry out a lightning investigation into
-some aspect of waste managment in the University over the course of a
-single week. What data is available? What issues can you discover?
-What new data might you collect to get a better picture of the current
-situation. Your team will be expected to give a 10 minute
-presentation, with slides, of your initial findings.
+**Assignment 1**: In your team, carry out a lightning investigation into some aspect of waste managment in the University over the course of a single week. What data is available? What issues can you discover What new data might you collect to get a better picture of the current
+situation. Your team will be expected to give a 10 minute presentation, with slides, of your initial findings.
 
 [not summatively assessed]
 
@@ -219,10 +218,13 @@ presentation, with slides, of your initial findings.
 and implement a small project in which your team designs an
 ‘intervention’ which would help address some problem of waste
 management. In the course of your project, you will be expected to
-collect new data in order to gain better insight into the problem. You
-should analyse this new data, see how it can be combined with other
-available data, and investigate whether what you have found can be
-used to justify new ways of dealing with waste.
+collect three distinct types of new data in order to gain better insight into the problem; these should consist of
+
+1. at least one existing data set, preferably published under an open licence;
+2. survey or participative workshop data;
+3. automatically recorded data, for example GPS, video or sensor data.
+
+You should analyse this new data, see how it can be combined, and investigate whether what you have discovered can be used to justify new ways of dealing with waste.
 
 * You will produce an individual report which describes your project,
     explains your specific role in the work, and presents your team’s
@@ -232,6 +234,22 @@ used to justify new ways of dealing with waste.
     include slides and any accompaning materials.
 
 ## Course Management
+
+### Feedback
+
+### Management of teaching delivery
+
+In order to meet the interdisciplinary goals of this course, teaching resource needs to be provided from more than one school. ???
+
+The projects are a key component of the course. To function effectively, they must involve challenges that meet the following conditons:
+
+* they involve 'real life' problems which are manifested locally in Edinburgh communities;
+* they offer technical challenges to a range of disciplines that are taught at undergraduate level in the University;
+* there is scope for design-led intervention by student teams, based on collection, analysis, interpretation and presentation of data;
+* the course organiser has, or is able to establish, working relationships with external organisations acting as 'problem stakeholders'. 
+
+ECCI is uniquely positioned to act to broker such challenges, and has agreed to act as a partner for this course. 
+
 
 ## Comments
 
