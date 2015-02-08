@@ -59,7 +59,7 @@ The course contributes to the following initiatives:
 
 The approach adopted by the course embodies important components of the Smart Data Hack, which is now being run for the third time. Over the course of the last three years, the Smart Data Hack has proved to be enormously popular amongst Informatics students and is also increasing its reach to other Schools, including Biology, Business, Engineering, ECA, Maths, Physics, PPL and SPS. On this basis, there is reason to believe that the course will appeal widely to students across the University. 
 
-It is also worth noting that the proposed course aligns well with the priorities of student-led initiatives such as [Edinburgh2020](http://edinburgh2020.org) and the [Buchanan Institute](http://buchananinst.org).
+It is also worth noting that the proposed course aligns well with the priorities of student-led initiatives such as [Ed 2020](http://edinburgh2020.org) and the [Buchanan Institute](http://buchananinst.org).
 
 ### Relation to existing curriculum
 
