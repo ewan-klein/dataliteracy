@@ -57,8 +57,23 @@ The course contributes to the following initiatives:
 ### Target audience and expected demand
 
 
+The approach adopted by the course embodies important components of the Smart Data Hack, which is now being run for the third time. Over the course of the last three years, the Smart Data Hack has proved to be enormously popular amongst Informatics students and is also increasing its reach to other Schools, including Biology, Business, Engineering, ECA, Maths, Physics, PPL and SPS. On this basis, there is reason to believe that the course will appeal widely to students across the University. 
+
+It is also worth noting that the proposed course aligns well with the priorities of student-led initiatives such as [Edinburgh2020](http://edinburgh2020.org) and the [Buchanan Institute](http://buchananinst.org).
 
 ### Relation to existing curriculum
+
+The course would be optional for Informatics 1, but like the core courses, would contribute to the broad base of learning which is deepened and extended through the following three years of Informatics degrees. 
+
+
+
+
+
+### Resources
+
+In order to fulfil the interdisciplinary goals of the course, around 50% of the teaching effort should come from outside the School of Informatics. 
+
+We will bid for this course to be supported as a case study / pilot for the *Emerging Vision for Learning and Teaching*. We cannot pretend to be able to foresee how cross-School resourcing will be found on a sustainable basis, but believe that in this period of radical change in the University's approach to the curriculum, it is sensible to adopt an approach of rapid prototyping and iterative development in order support innovation in teaching and learning.
 
 This proposal follows on from a pilot in the Masters-level Design for
 Informatics course last semester that implemented key ideas from the
@@ -69,42 +84,27 @@ Travel in collaboration with Inverleith Neighbourhood Partnership. The
 results of the pilot were disseminated in a workshop to University
 colleagues from across the spectrum of subject areas. The workshop
 demonstrated that there is considerable interest in, and support for,
-this kind of teaching innovation from many parts of the University.
+this kind of  innovation from many parts of the University.
 
 The pilot was the basis for a succesful bid to the Principal’s
-Teaching Award Scheme, and this will provide financial support for the
-applicants to consolidate and extend the methods and teaching
-resources for future deployments of the approach to Design for
-Informatics and potentially for other courses.
-
-
-### Resources
-
+Teaching Award Scheme, and this will provide financial support for developing many of the teaching materials required for this course.
 
 
 ## Course descriptor
 
-**Course Title**: Data Literacy  
+**Course Title**: Data, Design and Society  
 **SCQF Credit Points**: 20  
-**SCQF Credit Level**: 8
+**SCQF Credit Level**: 8  
 **Normal Year Taken**: 1  
 **Also available in years**: 2  
 **Subject Area and Specialism Classification**: ??  
 **Timetabling Information**: S2  
 
 **Short Course Description**  
+
 Data plays a pervasive role in modern society: we are all consumers
 and producers of data on a daily basis. Moreover, data is increasingly
-important for all aspects of academic endeavour.  By becoming data
-literate—understanding how data is collected, how it can be
-interpreted, and how it functions in social and political
-processes—you will be better prepared for your undergraduate studies,
-for your future career, and for becoming an informed citizen. This
-course will provide you with basic concepts and tools for
-understanding data, but just as importantly, it gives you an
-opportunity to acquire a practice-based understanding of data by
-contributing to a team-based interdisciplinary project.  Your team
-will address an existing social challenge by collecting, processing
+important for all aspects of academic endeavour.  By understanding how data is collected, how it can be interpreted, and how it functions in social and political processes, you will be better prepared for your undergraduate studies, for your future career, and for becoming an informed citizen. This course will provide you with basic concepts, tools and a practice-based understanding of how data and design principles can support social innovation, By engaging in team-based interdisciplinary project, you will address an existing social challenge that involves collecting, processing
 and analysing data as part of designing a solution.
 
 **Pre-Requisite Courses**: None  
@@ -115,8 +115,10 @@ and analysing data as part of designing a solution.
 
 **Summary of Intended Learning Outcomes**
 
+<!--
 1.  Demonstrate a knowledge of different types of data, and how such data is collected.
 2.  Demonstrate a knowledge of basic data analysis techniques.
+-->
 3.  Demonstrate an understanding of the principles for communicating
     information that arises from data. 
 4.  Demonstrate an understanding of the way that data accrues value in
@@ -127,7 +129,7 @@ and analysing data as part of designing a solution.
     respects legal and ethical considerations. 
 7.  Interpret and evaluate data relative to specific communication / policy objectives.
 8.  Implement, evaluate and document a prototype 'intervention'
-    relative to the interests and needs of a specified community of
+    that addresses  the interests and needs of a specified community of
     stakeholders. 
 9.  Communicate the information in two or more datasets using
     appropriate analytic, presentation and visualisation techniques. 
@@ -163,8 +165,10 @@ Oral Presentation: 25%
 
 
 *   Types of data, data formats and data collection methods
+*   Design principles for social innovation
 *   Basic statistical properties of data sets, data quality
-*   Data transformation and data linkage
+*   Data cleaning, transformation and linkage
+*   Social science techniques for small scale experimentation and co-design
 *   Ethical and legal aspects of data collection and publication
 *   Data visualisation 
 *   Using data to persuade, to inform and to support decision-making
