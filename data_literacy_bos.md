@@ -11,7 +11,9 @@
 
 ### Overall contribution to teaching portfolio
 
-One of the key drivers for this course is the University’s [Emerging Vision for Learning and Teaching](http://www.docs.sasg.ed.ac.uk/AcademicServices/Projects/Consultation%20on%20University%20Vision%20for%20Learning%20and%20Teaching%20Aug%202014.pdf). The vision includes the following goals:
+This course asks how data and design can be combined to support social innovation. It focusses the question through the lens of developing prototype solutions for 'real life' problems that require an interdisciplinary approach founded on collecting, interpreting and presenting data. 
+
+One of the key drivers for the course is the University’s [Emerging Vision for Learning and Teaching](http://www.docs.sasg.ed.ac.uk/AcademicServices/Projects/Consultation%20on%20University%20Vision%20for%20Learning%20and%20Teaching%20Aug%202014.pdf). The vision includes the following goals:
 
 **Extend learning beyond the traditional knowledge-centred course** &mdash; use the length and credit-pattern of our degrees to facilitate time spent developing graduate attributes through, for example, credit bearing self-directed study, international or service experience, interaction with employers, entrepreneurship.</li>
 
@@ -21,21 +23,27 @@ One of the key drivers for this course is the University’s [Emerging Vision fo
 
 The following features of the proposed course will support these goals:
 
-1. Students will address 'real life' problems which arise locally (in either the University or the city) and in so doing will engage with organisations and problem-holders outside the classroom. 
+1. Students will address problems which arise locally (in either the University or the city) and in so doing will engage with organisations and problem-holders outside the classroom. 
 2. By requiring students to carry out a substantial group project, the course is strongly practice-based. Within the frame of reference provided the project specification, students will have considerable freedom to develop their own approaches. In addition, the projects will be structured so as to introduce students to basic research methodology.
 3. Projects will be carried out in small interdisciplinary teams. This will provide rich opportunities for peer-support and joint problem-solving. Project teams will be an important functional unit for interacting with course academics and tutors.
 
+Together, these features contribute strongly towards helping students develop graduate attributes, encourage them to adopt researcher/practioner roles, and support a strongly engaged and active learning style.
 
-The title of the course accurately reflects the three elements that we wish to bring together in order to provide students with an opportunity to taste the process of social innovation.
-
-
+<!--
 * the knowledge-based learning outcomes will be consolidated and contextualised by practice-based work, most importantly in a substantial, team-based project;
 * the interdisciplinary orientation will prepare students for the world of work beyond the university;
 
+In order to underpin the interdisciplinary approach to learning, we will strongly encourage other departments to become stakeholders. The 
 
-In order to underpin the interdisciplinary approach to learning, we will strongly encourage other departments to become stakeholders. The course is intended to be open to students from Informatics, and will offer them information, skills and ways of learning that are not currently available elsewhere in the curriculum.
+-->
+
+The course is intended to be open to students all students, including those from Informatics. In addition to the benefits noted above, the course will complement the existing pre-Honours curriculum in important respects:
+
+* Many Informatics students have strong technical and analytic skills, but lack practice and facility in expressing themselves coherently and persuasively in writing. The course will require all students to write two reports, the first of which will be formatively assessed.
+* Many Informatics students are capable of building complex and sophisticated software 'apps', but have little or no ability to understand how such software would address real user needs. The course will encourage students to think about user-centre design and will encourage rapid prototyping using co-design techniques.
 
 
+<!--
 The course contributes to the following initiatives:
 
 *   
@@ -44,8 +52,11 @@ The course contributes to the following initiatives:
 *  The
     [Edinburgh Living Lab](http://edinburghlivinglab.org) collaboration between the University and City of Edinburgh Council; 
 *   [Edinburgh Data Science](http://www.ed.ac.uk/schools-departments/data-science).
+-->
 
 ### Target audience and expected demand
+
+
 
 ### Relation to existing curriculum
 
