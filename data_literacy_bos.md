@@ -140,9 +140,10 @@ and analysing data as part of designing a solution.
 
 
 
+
 **Assessment Information**
 
-TBD
+
 
 **Assessment Weightings**
 
@@ -164,8 +165,8 @@ Oral Presentation: 25%
 **Syllabus**
 
 
-*   Types of data, data formats and data collection methods
 *   Design principles for social innovation
+*   Types of data, data formats and data collection methods
 *   Basic statistical properties of data sets, data quality
 *   Data cleaning, transformation and linkage
 *   Social science techniques for small scale experimentation and co-design
@@ -193,11 +194,11 @@ Note that the syllabus does not overlap to any signficant extent with  [Informat
 <tbody>
 <tr>
 <td align="left"><p>Lectures</p></td>
-<td align="right"><p>20</p></td>
+<td align="right"><p>15</p></td>
 </tr>
 <tr>
 <td align="left"><p>Supervised Workshop/Studio</p></td>
-<td align="right"><p>10</p></td>
+<td align="right"><p>15</p></td>
 </tr>
 <tr>
 <td align="left"><p>Project supervision</p></td>
@@ -240,9 +241,19 @@ At the micro level, what influences the decision of an individual to
 use a paper towel (or two, or three) to clean her coffee cup?
 
 **Assignment 1**: In your team, carry out a lightning investigation into some aspect of waste managment in the University over the course of a single week. What data is available? What issues can you discover What new data might you collect to get a better picture of the current
-situation. Your team will be expected to give a 10 minute presentation, with slides, of your initial findings.
+situation. 
 
-[not summatively assessed]
+
+* You will contribute to a 10 minute team presentation, with slides, of your initial findings. 
+* You will submit a report of 500&ndash;1000 words which identifies one or more specific problems, describes what actions you might undertake to address this problem and broadly identifies three types of data which could be used to develop a possible solution.
+
+10 hours field research  
+3 hours preparation of presentation  
+7 hours preparation of report  
+?? hours peer feedback?
+
+
+[formatively assessed]
 
 **Assignment 2**: On the basis your first lightning investigation, plan
 and implement a small project in which your team designs an
@@ -262,6 +273,10 @@ You should analyse this new data, see how it can be combined, and investigate wh
     that you have collected.
 * You will contribute to a final project presentation, which will
     include slides and any accompaning materials.
+    
+60 hours field research, data collection, data management, data analysis  
+20 hours report preparation  
+6 hours preparing slides, presentation
 
 ## Course Management
 
@@ -283,7 +298,7 @@ ECCI is uniquely positioned to act to broker such challenges, and has agreed to 
 
 ## Comments
 
-## Background
+
 
 
 
