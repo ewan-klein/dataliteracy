@@ -1,26 +1,44 @@
 # Informatics Board of Study &mdash; Course Proposal
 
 **Proposed course title**: Data, Design and Society  
-**Proposers**: Ewan Klein, James Stewart (SPS), Arno Verhoeven (Design Informatics) 
+**Proposers**: Ewan Klein, James Stewart (SPS)  
 **Date**: 11 February 2015  
 **Status**: Draft 
 
 ## Case for support
+
+
+
+### Overall contribution to teaching portfolio
+
+One of the key drivers for this course is the University’s [Emerging Vision for Learning and Teaching](http://www.docs.sasg.ed.ac.uk/AcademicServices/Projects/Consultation%20on%20University%20Vision%20for%20Learning%20and%20Teaching%20Aug%202014.pdf). The vision includes the following goals:
+
+**Extend learning beyond the traditional knowledge-centred course** &mdash; use the length and credit-pattern of our degrees to facilitate time spent developing graduate attributes through, for example, credit bearing self-directed study, international or service experience, interaction with employers, entrepreneurship.</li>
+
+**Every student a researcher/practitioner** &mdash; students are linked to research or practice groups and activities from year 1.
+
+**Course design for 21st century learners** &mdash; develop all courses within the curriculum towards the appropriate use of technology and student-centred pedagogy and away from passive learning styles. An ongoing focus on small group interactions with academics will be key to this, with a reduced emphasis on the ‘traditional’ lecture/ closed exam model of teaching.
+
+The following features of the proposed course will support these goals:
+
+1. Students will address 'real life' problems which arise locally (in either the University or the city) and in so doing will engage with organisations and problem-holders outside the classroom. 
+2. By requiring students to carry out a substantial group project, the course is strongly practice-based. Within the frame of reference provided the project specification, students will have considerable freedom to develop their own approaches. In addition, the projects will be structured so as to introduce students to basic research methodology.
+3. Projects will be carried out in small interdisciplinary teams. This will provide rich opportunities for peer-support and joint problem-solving. Project teams will be an important functional unit for interacting with course academics and tutors.
+
 
 The title of the course accurately reflects the three elements that we wish to bring together in order to provide students with an opportunity to taste the process of social innovation.
 
 
 * the knowledge-based learning outcomes will be consolidated and contextualised by practice-based work, most importantly in a substantial, team-based project;
 * the interdisciplinary orientation will prepare students for the world of work beyond the university;
-* students will be expected to engage actively and responsibly with problems and problem-holders outside the classroom.
+
 
 In order to underpin the interdisciplinary approach to learning, we will strongly encourage other departments to become stakeholders. The course is intended to be open to students from Informatics, and will offer them information, skills and ways of learning that are not currently available elsewhere in the curriculum.
 
-### Overall contribution to teaching portfolio
 
 The course contributes to the following initiatives:
 
-*   The University’s [Emerging Vision for Learning and Teaching](http://www.docs.sasg.ed.ac.uk/AcademicServices/Projects/Consultation%20on%20University%20Vision%20for%20Learning%20and%20Teaching%20Aug%202014.pdf);
+*   
 * The [Edinburgh2020](http://edinburgh2020.org) platform for
   innovation and re-thinking education within the University; 
 *  The
