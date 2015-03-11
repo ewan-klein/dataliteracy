@@ -2,8 +2,8 @@
 
 **Proposed course title**: Data, Design and Society  
 **Proposers**: Ewan Klein, James Stewart (SPS)  
-**Date**: 11 February 2015  
-**Status**: Draft 
+**Date**: 11 March 2015  
+**Status**: Final 
 
 ## Case for support
 
@@ -97,7 +97,6 @@ Teaching Award Scheme, and this will provide financial support for developing ma
 **SCQF Credit Level**: 8  
 **Normal Year Taken**: 1  
 **Also available in years**: 2  
-**Subject Area and Specialism Classification**: ??  
 **Timetabling Information**: S2  
 
 **Short Course Description**  
@@ -154,8 +153,8 @@ Oral Presentation: 25%
 
 **Time spent on assignments**
 
-* formatively assessed coursework 1: 10 hours  
-* summatively assessed coursework 2: 100 hours  
+* formatively assessed coursework 1: 20 hours  
+* summatively assessed coursework 2: 80 hours  
 * oral presentation: 15 hours  
 
 
@@ -248,9 +247,9 @@ situation.
 * You will submit a report of 500&ndash;1000 words which identifies one or more specific problems, describes what actions you might undertake to address this problem and broadly identifies three types of data which could be used to develop a possible solution.
 
 10 hours field research  
-3 hours preparation of presentation  
 7 hours preparation of report  
-?? hours peer feedback?
+5 hours preparation of presentation  
+3 hours peer assessment
 
 
 [formatively assessed]
@@ -276,7 +275,7 @@ You should analyse this new data, see how it can be combined, and investigate wh
     
 60 hours field research, data collection, data management, data analysis  
 20 hours report preparation  
-6 hours preparing slides, presentation
+5 hours preparing slides, presentation
 
 ## Course Management
 
@@ -284,7 +283,7 @@ You should analyse this new data, see how it can be combined, and investigate wh
 
 ### Management of teaching delivery
 
-In order to meet the interdisciplinary goals of this course, teaching resource needs to be provided from more than one school. ???
+In order to meet the interdisciplinary goals of this course, teaching resource needs to be provided from more than one school. The framework for managing cross-school resource allocation and credit needs to be addressed at by higher management of the University, and discussions on how develop this are ongoing.
 
 The projects are a key component of the course. To function effectively, they must involve challenges that meet the following conditons:
 
@@ -293,7 +292,7 @@ The projects are a key component of the course. To function effectively, they mu
 * there is scope for design-led intervention by student teams, based on collection, analysis, interpretation and presentation of data;
 * the course organiser has, or is able to establish, working relationships with external organisations acting as 'problem stakeholders'. 
 
-ECCI is uniquely positioned to act to broker such challenges, and has agreed to act as a partner for this course. 
+ECCI is uniquely positioned to broker such challenges, and has agreed to act as a partner for this course. 
 
 
 ## Comments
