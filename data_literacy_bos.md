@@ -1,7 +1,7 @@
 # Informatics Board of Study &mdash; Course Proposal
 
 **Proposed course title**: Data, Design and Society  
-**Proposers**: Ewan Klein, James Stewart (SPS)  
+**Proposers**: Ewan Klein, James Stewart (SPS), Arno Verhoeven (ECA)  
 **Date**: 11 March 2015  
 **Status**: Final 
 
