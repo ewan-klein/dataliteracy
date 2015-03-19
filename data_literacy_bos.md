@@ -103,8 +103,8 @@ Teaching Award Scheme, and this will provide financial support for developing ma
 
 Data plays a pervasive role in modern society: we are all consumers
 and producers of data on a daily basis. Moreover, data is increasingly
-important for all aspects of academic endeavour.  By understanding how data is collected, how it can be interpreted, and how it functions in social and political processes, you will be better prepared for your undergraduate studies, for your future career, and for becoming an informed citizen. This course will provide you with basic concepts, tools and a practice-based understanding of how data and design principles can support social innovation, By engaging in team-based interdisciplinary project, you will address an existing social challenge that involves collecting, processing
-and analysing data as part of designing a solution.
+important for all aspects of academic endeavour.  By understanding how data is collected, how it can be interpreted, and how it functions in social and political processes, you will be better prepared for your undergraduate studies, for your future career, and for becoming an informed citizen. This course will provide you with basic concepts, tools and a practice-based understanding of how data and design principles can support social innovation. By engaging in a team-based interdisciplinary project, you will address an existing social challenge that involves collecting, processing
+and analysing data as part of designing a prototype solution.
 
 **Pre-Requisite Courses**: None  
 **Co-Requisite Courses**: None  
@@ -114,27 +114,12 @@ and analysing data as part of designing a solution.
 
 **Summary of Intended Learning Outcomes**
 
-<!--
-1.  Demonstrate a knowledge of different types of data, and how such data is collected.
-2.  Demonstrate a knowledge of basic data analysis techniques.
--->
-3.  Demonstrate an understanding of the principles for communicating
-    information that arises from data. 
-4.  Demonstrate an understanding of the way that data accrues value in
-    the context of modern society. 
-5.  Demonstrate an understanding of the basic legal and ethical issues
-    that arise from data collection and data use. 
-6.  Carry out at least two forms of data collection in a manner that
-    respects legal and ethical considerations. 
-7.  Interpret and evaluate data relative to specific communication / policy objectives.
-8.  Implement, evaluate and document a prototype 'intervention'
-    that addresses  the interests and needs of a specified community of
-    stakeholders. 
-9.  Communicate the information in two or more datasets using
-    appropriate analytic, presentation and visualisation techniques. 
-10. Plan and implement a small group project, demonstrating an ability
-    to work in an interdisciplinary team. 
-11. Act in a professional manner in interactions with stakeholders and the public.
+At the end of this course, students will be able to demonstrate their learning through their evidenced ability to:
+
+1. Identify and apply relevant strategies for data collection and related prototype 'interventions' which address the interests and needs of a specified community of stakeholders.
+2. Interpret and evaluate data in a way that demonstrates its relevance to selected communication and/or policy objectives.
+3. Synthesize and communicate the information from two or more datasets using appropriate analytic, presentation and visualisation techniques.
+4. Demonstrate an ability to work in an interdisciplinary team and to act in a professional manner when interacting with stakeholders and the public.
 
 
 
@@ -295,7 +280,6 @@ The projects are a key component of the course. To function effectively, they mu
 ECCI is uniquely positioned to broker such challenges, and has agreed to act as a partner for this course. 
 
 
-## Comments
 
 
 
