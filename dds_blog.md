@@ -1,5 +1,6 @@
 # Interdisciplinary Learning: Notes from the Whiteboard
 
+![](fidra.jpg)
 Delivering an interdisciplinary course is a complex challenge &mdash; ideally the learning is co-produced by both teachers and students, but getting the balance right is difficult. Just dropping lecturers with different backgrounds into the syllabus can result in a series of disconnected presentations which pushes all the work of constructing a coherent whole onto the students. On the other hand, the expense of several lecturers developing and delivering a course which brings together the perspectives and expertise of different disciplines is hard to reconcile with standard models for reourcing teaching. 
 
 By contrast, it ought to be possible to assemble a cohort of students with diverse disciplinary backgrounds, and indeed this is relatively easy to achieve in Masters-level courses. A case in point, which I'll return to shortly, is [Design Informatics](http://www.designinformatics.org), a degree that intentionally brings in students with backgrounds in design and in computing. However, at pre-Honours timetabling clashes between different degrees make it harder to fashion courses that rely on some interdisciplinary mixing of students. 
