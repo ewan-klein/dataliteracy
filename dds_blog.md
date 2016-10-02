@@ -18,22 +18,27 @@ There isn't space here to describe in detail how Alyssa and I ran the course, bu
 
 > Personally, I feel my learning on this course had gone beyond the scope of learning than any other course I have studied so far. In addition to the academic background knowledge and theories of design, I have improved on skills and learned how to conduct and evaluate research.
  
+---
 
 > I really enjoyed working in a team and getting to interact with other students from different courses, that I might not have had the opportunity to work with. I felt that our team got off to a bit of a difficult start, not everyone was confident in what they were doing but we really came together as a team especially in the last few weeks.
- 
+
+---
 
 > Through working on this project during this past semester, I have gained a greater appreciation for the value of collective input. I could not have done this project as effectively or as thoroughly on my own in the time available. Before this course, I had only limited experience in working with a group for an extended period of time, and many of my previous group projects had resulted in a very uneven distribution of the workload. This project was much more\successful, and demonstrated to me how effective a group can be when all its members desire a quality outcome and strive to make that happen. Group work also allows for a wider range of expertise to be utilized, such as one group member’s position as an RA, as well as my own experience in analyzing data.
  
+---
 
 > As a visiting student, I found it hard to believe that I could work with other full time students to actually make something realistic, feasible, and meaningful, but I was so wrong. Being a visiting student was what made this experience so rewarding for me. ­ I was given opportunities to engage in the University community that I might not have gotten in really any other course, and I also think it gives me a unique perspective.
  
+---
 
 > During our research we have come across barriers or phases where we were stuck – mainly because we did not truly understand what our next step was supposed to be or how we were meant to proceed. However, sitting at a table together and just brainstorming, sharing ideas and looking for ways to make our project a success has proven the most effective method of working for us. We have learnt to listen to each other’s ideas and be receptive to different viewpoints.
 
+---
 
 > This project was made especially successful due to the effort of the team putting it together, and the multidisciplinary lens which made the work more dynamic and effective.
 
-
+---
 
 > Over the course of this project I have become a clearer and more relaxed public speaker. I have learned how to get people engaged, and learned how valuable a focus group, and people’s feedback can be, and how to take it forward. Utilising people’s individual skillsets is something we have learned as group, as well as working efficiently together on one thing, as supposed to all working individually and just mashing it together.
 
