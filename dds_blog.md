@@ -24,7 +24,7 @@ There isn't space here to describe in detail how Alyssa and I ran the course, bu
 
 ---
 
-> Through working on this project during this past semester, I have gained a greater appreciation for the value of collective input. I could not have done this project as effectively or as thoroughly on my own in the time available. Before this course, I had only limited experience in working with a group for an extended period of time, and many of my previous group projects had resulted in a very uneven distribution of the workload. This project was much more\successful, and demonstrated to me how effective a group can be when all its members desire a quality outcome and strive to make that happen. Group work also allows for a wider range of expertise to be utilized, such as one group member’s position as an RA, as well as my own experience in analyzing data.
+> Through working on this project during this past semester, I have gained a greater appreciation for the value of collective input. I could not have done this project as effectively or as thoroughly on my own in the time available. Before this course, I had only limited experience in working with a group for an extended period of time, and many of my previous group projects had resulted in a very uneven distribution of the workload. This project was much more successful, and demonstrated to me how effective a group can be when all its members desire a quality outcome and strive to make that happen. Group work also allows for a wider range of expertise to be utilized, such as one group member’s position as an RA, as well as my own experience in analyzing data.
  
 ---
 
