@@ -2,7 +2,7 @@
 
 **Proposed course title**: Data, Design and Society  
 **Proposers**: Ewan Klein, James Stewart (SPS), Arno Verhoeven (ECA)  
-**Date**: 11 March 2015  
+**Date**: 19 March 2015  
 **Status**: Final 
 
 ## Case for support
